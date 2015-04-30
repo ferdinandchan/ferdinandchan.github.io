@@ -1,0 +1,5 @@
+# Ignore generated site
+_site
+
+# Ignore the jekyll meta file
+.jekyll-metadata
